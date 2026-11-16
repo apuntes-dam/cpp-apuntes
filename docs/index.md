@@ -8,6 +8,8 @@ Apuntes personales para aprender **C++**, organizados con la misma estructura qu
 | Apartado | Contenido |
 |---|---|
 | [U1. Primer programa en C++](u01/index.md) | Estructura, variables, operadores, tipos, pruebas |
+| [U7. Entrada/salida y GUI](u07/index.md) | Consola, archivos, ficheros de texto e interfaces gráficas con FLTK |
+| [U9. Bases de datos relacionales](u09/index.md) | SQLiteCpp: conexión, consultas, transacciones y el patrón DAO |
 | [Entorno](u01/05-entorno.md) | MSVC (`cl.exe`), y las alternativas libres (MinGW-w64/g++, clang) |
 | [Prácticas](u01/practicas.md) | Guía de prácticas de la unidad 1 |
 
@@ -15,4 +17,4 @@ Apuntes personales para aprender **C++**, organizados con la misma estructura qu
     C++ es un lenguaje **compilado, de tipado estático**, sin recolector de basura: el programador controla directamente la memoria (con ayuda de clases que la gestionan por ti, como `std::string` o `std::vector`). Nació como una extensión de C con clases y hoy añade plantillas genéricas, excepciones y una amplia biblioteca estándar. Se usa en sistemas operativos, motores de videojuegos, aplicaciones de alto rendimiento y mucho software de escritorio.
 
 !!! warning "Web en construcción"
-    Por ahora solo está la **unidad 1**. El resto de unidades, Avanzado y el hub llegarán en próximas fases.
+    Por ahora están las **unidades 1 a 7 y la 9** (el material original no tiene unidad 8). Avanzado y el hub llegarán en próximas fases.
